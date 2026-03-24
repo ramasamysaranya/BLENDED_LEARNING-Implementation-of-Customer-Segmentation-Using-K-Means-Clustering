@@ -69,9 +69,10 @@ plt.show()
 ```
 
 ## Output:
-<img width="773" height="196" alt="image" src="https://github.com/user-attachments/assets/a6a4773a-c91f-4dba-8e21-c15f44fecec3" />
-<img width="908" height="487" alt="image" src="https://github.com/user-attachments/assets/bc0fc8a4-acff-41a4-8c95-0d57c1767c45" />
-<img width="1040" height="730" alt="image" src="https://github.com/user-attachments/assets/8f3c8574-da6a-4fc7-a6b9-729a1fbec60f" />
+<img width="642" height="170" alt="image" src="https://github.com/user-attachments/assets/665c094d-cfaf-48fe-a9fa-8380e1c3e88a" />
+<img width="836" height="391" alt="image" src="https://github.com/user-attachments/assets/1548780b-7c4b-499f-a2c6-cdab92514936" />
+<img width="967" height="622" alt="image" src="https://github.com/user-attachments/assets/3902501b-0bc4-48e3-bb82-afa05fff710a" />
+
 
 
 ## Result:
